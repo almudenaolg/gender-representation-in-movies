@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+gendercinema.venv
 env/
 venv/
 ENV/
