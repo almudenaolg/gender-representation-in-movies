@@ -102,11 +102,12 @@ Combining both datasets enabled a comprehensive analysis with consistent movie t
 
 ---
 
-
 ## 🔎 Implications
 The findings underscore persistent gender disparities in the film industry. In light of recent debates around "forced inclusion," this analysis emphasizes the need for authentic and balanced representation in film to support storytelling diversity.
 
 ---
+
 ## 👤 Contact
-Authors: [Almudena Ocaña López-Gasco](https://docs.google.com/presentation/d/1UT_MTcW6d-LaUZ7WXHO5RCZRxvm1VhwnCvxnXFVNDmk/edit?usp=sharing)
+Authors: [Almudena Ocaña López-Gasco](https://www.linkedin.com/in/almudena-ocaloga/)
+         Elena Vilkoyt
 
