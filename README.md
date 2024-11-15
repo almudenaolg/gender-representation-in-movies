@@ -1,6 +1,6 @@
-# 🎥 Gender Representation in Film Analysis Project
+# 🎥 Gender Representation in Movie Analysis Project
 
-This project explores **gender representation in the film industry** by analyzing IMDb data on movies, with a focus on understanding gender disparities in roles like **director, writer, and cast**, as well as the relationship between gender and factors such as **genre, budget, ratings, and box office performance**.
+This project explores **gender representation in the cinema industry** by analyzing IMDb data on movies, with a focus on understanding gender disparities in roles like **director, writer, and cast**, as well as the relationship between gender and factors such as **genre, budget, ratings, and box office performance**.
 
 [🌟 Presentation summarizing all the project 🌟](https://docs.google.com/presentation/d/1UT_MTcW6d-LaUZ7WXHO5RCZRxvm1VhwnCvxnXFVNDmk/edit?usp=sharing)
 
@@ -34,7 +34,7 @@ This project explores **gender representation in the film industry** by analyzin
 
 ## 🔍 Project Overview
 
-This project investigates **gender dynamics in the film industry** using **10,000 movies** from IMDb. It examines gender representation across roles, genres, budgets, and ratings to uncover patterns and trends impacting the industry.
+This project investigates **gender dynamics in the cinema industry** using **10,000 movies** from IMDb. It examines gender representation across roles, genres, budgets, and ratings to uncover patterns and trends impacting the industry.
 
 ### Focus Areas
 
@@ -93,7 +93,7 @@ Combining both datasets enabled a comprehensive analysis with consistent movie t
 
 ![Gender Representation in Key Roles](images/Dashboard_key_roles.png)
 
-![Gender Dynamics in Film Genres and Budget Allocation](images/Dashboard_genres_budget.png)
+![Gender Dynamics in Movie Genres and Budget Allocation](images/Dashboard_genres_budget.png)
 
 ![Gender Influence on Ratings and Gross Revenue](images/Dashboard_rating_gross.png)
 
@@ -103,7 +103,7 @@ Combining both datasets enabled a comprehensive analysis with consistent movie t
 ---
 
 ## 🔎 Implications
-The findings underscore persistent gender disparities in the film industry. In light of recent debates around "forced inclusion," this analysis emphasizes the need for authentic and balanced representation in film to support storytelling diversity.
+The findings underscore persistent gender disparities in the cinema industry. In light of recent debates around "forced inclusion," this analysis emphasizes the need for authentic and balanced representation in movies to support storytelling diversity.
 
 ---
 
