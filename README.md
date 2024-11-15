@@ -1,4 +1,4 @@
-# 🎥 Gender Representation in Movie Analysis Project
+# 🎥 Gender Representation in Cinema- Analysis Project
 
 This project explores **gender representation in the cinema industry** by analyzing IMDb data on movies, with a focus on understanding gender disparities in roles like **director, writer, and cast**, as well as the relationship between gender and factors such as **genre, budget, ratings, and box office performance**.
 
