@@ -1,6 +1,6 @@
-# 🎥 Gender Representation in Film Analysis Project
+# 🎥 Gender Representation in Cinema- Analysis Project
 
-This project explores **gender representation in the film industry** by analyzing IMDb data on movies, with a focus on understanding gender disparities in roles like **director, writer, and cast**, as well as the relationship between gender and factors such as **genre, budget, ratings, and box office performance**.
+This project explores **gender representation in the cinema industry** by analyzing IMDb data on movies, with a focus on understanding gender disparities in roles like **director, writer, and cast**, as well as the relationship between gender and factors such as **genre, budget, ratings, and box office performance**.
 
 [🌟 Presentation summarizing all the project 🌟](https://docs.google.com/presentation/d/1UT_MTcW6d-LaUZ7WXHO5RCZRxvm1VhwnCvxnXFVNDmk/edit?usp=sharing)
 
@@ -34,7 +34,7 @@ This project explores **gender representation in the film industry** by analyzin
 
 ## 🔍 Project Overview
 
-This project investigates **gender dynamics in the film industry** using **10,000 movies** from IMDb. It examines gender representation across roles, genres, budgets, and ratings to uncover patterns and trends impacting the industry.
+This project investigates **gender dynamics in the cinema industry** using **10,000 movies** from IMDb. It examines gender representation across roles, genres, budgets, and ratings to uncover patterns and trends impacting the industry.
 
 ### Focus Areas
 
@@ -90,28 +90,24 @@ Combining both datasets enabled a comprehensive analysis with consistent movie t
 ---
 
 ## 🎨 Dashboards & Key Insights
-The dashboards reveal gender distribution by film genre, budget allocation, and ratings:
 
-1. **Gender Representation in Film Roles**: Overview of gender distribution in key roles (directors, writers, actors), showcasing the gender gap across each position.
 ![Gender Representation in Key Roles](images/Dashboard_key_roles.png)
 
-2. **Gender Dynamics in Film Genres and Budget Allocation**: Examines how gender composition varies by genre and explores budget allocation based on the director and cast gender.
-![Gender Dynamics in Film Genres and Budget Allocation](images/Dashboard_genres_budget.png)
+![Gender Dynamics in Movie Genres and Budget Allocation](images/Dashboard_genres_budget.png)
 
-3. **Impact of Gender on Reviews and Revenue**: Analyzes how gender influences critics' and audience ratings, as well as box office earnings, revealing disparities in revenue and reception.
 ![Gender Influence on Ratings and Gross Revenue](images/Dashboard_rating_gross.png)
 
-4. **Evolution of Gender Representation Over Time**: Tracks changes in gender representation over the years, showing trends in women’s participation in directing and acting roles.
 ![Evolution of Gender Representation Over Time](images/Dashboard_evolution.png)
 
 
 ---
 
-
 ## 🔎 Implications
-The findings underscore persistent gender disparities in the film industry. In light of recent debates around "forced inclusion," this analysis emphasizes the need for authentic and balanced representation in film to support storytelling diversity.
+The findings underscore persistent gender disparities in the cinema industry. In light of recent debates around "forced inclusion," this analysis emphasizes the need for authentic and balanced representation in movies to support storytelling diversity.
 
 ---
+
 ## 👤 Contact
-Authors: [Almudena Ocaña López-Gasco](https://docs.google.com/presentation/d/1UT_MTcW6d-LaUZ7WXHO5RCZRxvm1VhwnCvxnXFVNDmk/edit?usp=sharing)
+Authors: [Almudena Ocaña López-Gasco](https://www.linkedin.com/in/almudena-ocaloga/)
+         Elena Vilkoyt
 
